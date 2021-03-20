@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(202, 194, 168, 0.938);
+}
+
+h1 {
+  color: black;
+}
+
+p1 {
+  color: black;
+  font-family: verdana;
+  font-size: 50%
+}
+
